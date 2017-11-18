@@ -4,11 +4,13 @@
 	"version": "1.0.0",
 	"author": "Kevin Ridgway <kridgway@gmail.com>",
 	"dependencies": {
-		"gatsby": "^1.9.45",
-		"gatsby-link": "^1.6.17",
-		"gatsby-plugin-react-helmet": "^1.0.5"
+		"gatsby": "^1.9.117",
+		"gatsby-link": "^1.6.28",
+		"gatsby-plugin-react-helmet": "^1.0.8"
 	},
-	"keywords": ["gatsby"],
+	"keywords": [
+		"gatsby"
+	],
 	"license": "MIT",
 	"main": "n/a",
 	"scripts": {
@@ -19,6 +21,6 @@
 		"deploy": "gatsby build && git subtree push --prefix public origin gh-pages"
 	},
 	"devDependencies": {
-		"prettier": "^1.6.1"
+		"prettier": "^1.8.2"
 	}
 }
