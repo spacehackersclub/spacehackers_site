@@ -8,7 +8,7 @@ const IndexPage = ({ data }) => (
 		<p>I am working on creating a community in which we can openly collobarate.</p>
 		<ul>
 			<li>
-				<a href="https://github.com/organizations/spacehackersclub">Space Hackers on Github</a>
+				<a href="https://github.com/spacehackersclub">Space Hackers on Github</a>
 				<ul>
 					<li>
 						Looking for ideas on how to organize{' '}
