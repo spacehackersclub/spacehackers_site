@@ -4,10 +4,13 @@
 	"version": "1.0.0",
 	"author": "Kevin Ridgway <kridgway@gmail.com>",
 	"dependencies": {
-		"gatsby": "^1.9.117",
-		"gatsby-link": "^1.6.28",
-		"gatsby-plugin-google-analytics": "^1.0.12",
-		"gatsby-plugin-react-helmet": "^1.0.8"
+		"gatsby": "^1.9.155",
+		"gatsby-link": "^1.6.34",
+		"gatsby-plugin-google-analytics": "^1.0.15",
+		"gatsby-plugin-react-helmet": "^2.0.3",
+		"gatsby-plugin-typography": "^1.7.10",
+		"react-helmet": "^5.2.0",
+		"tachyons": "^4.9.1"
 	},
 	"keywords": [
 		"gatsby"
@@ -22,6 +25,6 @@
 		"deploy": "gatsby build && git subtree push --prefix public origin gh-pages"
 	},
 	"devDependencies": {
-		"prettier": "^1.8.2"
+		"prettier": "^1.10.2"
 	}
 }
