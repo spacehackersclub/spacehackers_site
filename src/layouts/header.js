@@ -51,7 +51,7 @@ const Header = ({ data }) => (
 				A community of independent hackers dedicated to furthering humanity's knowledge of the universe through
 				open collaboration.
 			</blockquote>
-			<div className="ph3">
+			<div className="ph4">
 				<a
 					href="#chat"
 					className="f6 link dim br3 ph4 pv2 mr2 mb2 dib white bg-near-black"
@@ -62,13 +62,22 @@ const Header = ({ data }) => (
 					Join Chat
 				</a>
 				<a
-					className="f6 link dim br3 ph4 pv2 mb2 dib white bg-near-black"
+					className="f6 link dim br3 ph4 pv2 mr2 mb2 dib white bg-near-black"
 					href="#more"
 					style={{
 						fontFamily: 'Roboto'
 					}}
 				>
 					Learn More
+				</a>
+				<a
+					className="f6 link dim br3 ph4 pv2 mr2 mb2 dib white bg-near-black"
+					href="https://interweblabs.us14.list-manage.com/subscribe/post?u=a18c10f77bed16e312a611ce8&amp;id=a55a469739"
+					style={{
+						fontFamily: 'Roboto'
+					}}
+				>
+					Newsletter
 				</a>
 			</div>
 		</div>
