@@ -53,6 +53,15 @@ const Header = ({ data }) => (
 			</blockquote>
 			<div className="ph4">
 				<a
+					href="https://jobs.spacehackers.club"
+					className="f6 link dim br3 ph4 pv2 mr2 mb2 dib white bg-near-black"
+					style={{
+						fontFamily: 'Roboto'
+					}}
+				>
+					Job Board
+				</a>
+				<a
 					href="#chat"
 					className="f6 link dim br3 ph4 pv2 mr2 mb2 dib white bg-near-black"
 					style={{

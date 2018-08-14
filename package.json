@@ -23,7 +23,7 @@
 		"develop": "gatsby develop",
 		"format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"deploy": "now -n 'spacehackers_main' && now alias `pbpaste` spacehackers.club"
+		"deploy": "npm run build && now -n 'spacehackers_main' public && now alias `pbpaste` spacehackers.club"
 	},
 	"devDependencies": {
 		"prettier": "^1.10.2"

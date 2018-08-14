@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{88:function(e,t){e.exports={data:{site:{siteMetadata:{purpose:"A community of independent hackers dedicated to furthering humanity's knowledge of the universe through \n    open collaboration."}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{104:function(e,t){e.exports={data:{site:{siteMetadata:{purpose:"A community of independent hackers dedicated to furthering humanity's knowledge of the universe through \n    open collaboration."}}},layoutContext:{}}}});
 //# sourceMappingURL=path----2a97ee951343595c5135.js.map
