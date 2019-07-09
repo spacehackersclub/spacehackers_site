@@ -19,7 +19,7 @@ const IndexPage = ({ data }) => (
 						fontFamily: 'Roboto'
 					}}
 				>
-					52 Members currently!
+					135 Members currently!
 				</blockquote>
 				<p>
 					Join us on <a href="https://keybase.io/">Keybase</a> to chat.
